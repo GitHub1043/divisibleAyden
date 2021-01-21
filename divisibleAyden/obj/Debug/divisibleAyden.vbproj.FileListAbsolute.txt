@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\divisibleAyden\divisibleAyden\bin\Debug\divisibleAyden.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\divisibleAyden\divisibleAyden\bin\Debug\divisibleAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\divisibleAyden\divisibleAyden\bin\Debug\divisibleAyden.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\divisibleAyden\divisibleAyden\bin\Debug\divisibleAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\divisibleAyden\divisibleAyden\obj\Debug\divisibleAyden.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\divisibleAyden\divisibleAyden\obj\Debug\divisibleAyden.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\divisibleAyden\divisibleAyden\obj\Debug\divisibleAyden.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\divisibleAyden\divisibleAyden\obj\Debug\divisibleAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\divisibleAyden\divisibleAyden\obj\Debug\divisibleAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\divisibleAyden\divisibleAyden\obj\Debug\divisibleAyden.pdb
